@@ -1,0 +1,5 @@
+C:\dev-playground\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\dev-playground\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\dev-playground\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\dev-playground\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\dev-playground\BusinessLayer\obj\Debug\BusinessLayer.pdb
